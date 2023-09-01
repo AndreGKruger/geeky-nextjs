@@ -5,41 +5,26 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Football",
+      "url": "/football"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Social",
+      "url": "/social"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Games",
+      "url": "/games"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Categories",
-          "url": "/categories"
-        }
-      ]
+      "name": "Fitness",
+      "url": "/fitness"
     }
   ],
   "footer": [
     {
       "name": "Home",
       "url": "/"
-    },
-    {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
     },
     {
       "name": "Privacy Policy",
